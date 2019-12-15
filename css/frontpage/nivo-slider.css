@@ -1,0 +1,32 @@
+/*
+ * jQuery Nivo Slider v3.2
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2012, Dev7studios
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+ 
+/* The Nivo Slider styles */
+.slider-main{position:relative}
+.nivoSlider{position:relative;width:100%;height:auto;overflow:hidden}
+.nivoSlider img{position:absolute;top:0;left:0;max-width:none}
+.nivo-main-image{display:block!important;position:relative!important;width:100%!important}
+.nivoSlider a.nivo-imageLink{position:absolute;top:0;left:0;width:100%;height:100%;border:0;padding:0;margin:0;z-index:6;display:none;background:#fff;filter:alpha(opacity=0);opacity:0}
+.nivo-slice{display:block;position:absolute;z-index:5;height:100%;top:0}
+.nivo-box{display:block;position:absolute;z-index:5;overflow:hidden}
+.nivo-box img{display:block}
+.nivo-html-caption{display:none}
+.nivo-directionNav a{position:absolute;top:50%;z-index:9;cursor:pointer; transform:translateY(-50%); -webkit-transform:translateY(-50%); -moz-transform:translateY(-50%);}
+a.nivo-prevNav{left:60px;background-position:-54px 0;}
+a.nivo-nextNav{right:60px;background-position:-54px 0!important;}
+.nivo-controlNav{left:7%;text-align:left;right:auto;padding:0;position:absolute;width:100%;bottom:15%;z-index:9;text-align:left}
+.nivo-controlNav a{cursor:pointer;border:0 none;display:inline-block;height:12px;margin:0 5px 0 0;text-indent:-9999px;width:12px;border-radius:15px;-moz-border-radius:15px;-webkit-border-radius:15px;-o-border-radius:15px}
+.nivo-controlNav a.active{font-weight:700}
+.nivo-directionNav a{border:none;display:block;height:54px;text-indent:-9999px;transition:all 200ms ease-in-out 0;width:54px;background:url(../images/slide-nav.png) no-repeat left top;}
+.slider-main:hover .nivo-directionNav a{opacity:.8}
+.nivo-caption{padding:20px;position:absolute;left:0;right:0;margin:0 auto;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#fff;z-index:8;overflow:hidden;width:60%;top:50%;transform:translateY(-50%);border-radius:5px;text-align:center}
+.nivo-caption h2{line-height:35px;font-weight:800;color:#fff;margin:0 0 20px;padding-bottom:10px;position:relative}
+.nivo-caption h2 span{display:block;font-size:15px;padding-bottom:30px;font-weight:500}
+.nivo-caption p{font-weight:400;margin-bottom:20px;line-height:27px}
+.nivo-caption .button{margin-top:10px}
