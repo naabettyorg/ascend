@@ -2,53 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795c6abe-1fd1-484d-97dc-df6a6731dff6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/animation-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/circle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/dashicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/editor-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/flexiselcss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/fontawesome-all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/hover-min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/mailin-front.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/nivo-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/prettyPhotoe735.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/style-mixitup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/frontpage/tm-rotator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/custom-animation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery-migrate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery.flexisel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery.nivo.slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery.prettyPhoto5152.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery.quovolver.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery_003.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/jquery_013.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/screen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/frontpage/wp-embed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/frontpage/about-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/frontpage/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/frontpage/contact-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/frontpage/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/frontpage/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/frontpage/temp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/products-example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/temp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -112,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576359961107</updated>
-      <workItem from="1576360096357" duration="12437000" />
+      <workItem from="1576360096357" duration="14153000" />
     </task>
     <servers />
   </component>
