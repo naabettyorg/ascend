@@ -160,7 +160,7 @@ width:auto !important; float:none; min-height:inherit; margin:0 0 30px;
 .container, .content-area, #ourservices .container{ width:400px; margin:0 auto;}
 .teammember-list .thumnailbx{ height:auto; visibility:visible;}
 .slider-main{ height:auto; min-height:200px;}
-.team_column{display:inline-block!important; width:300px!importantsssss;}
+.team_column{display:inline-block!important; width:300px!important;}
 .ourteam-thumb{ height:350px;}
 .ourteam-thumb img{ min-height:350px;}
  

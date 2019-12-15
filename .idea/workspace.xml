@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795c6abe-1fd1-484d-97dc-df6a6731dff6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sites/frontpage/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/sites/frontpage/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/frontpage/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/frontpage/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/frontpage/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/frontpage/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/frontpage/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/products-example.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +44,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css/frontpage" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css/frontpage" />
       <recent name="$PROJECT_DIR$/css" />
